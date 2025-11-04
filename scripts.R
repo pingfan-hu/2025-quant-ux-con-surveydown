@@ -31,7 +31,7 @@ warning: false
 library(surveydown)
 ```
 
-::: {#welcome .sd-page}
+--- welcome
 
 # Welcome to `surveydown`!
 
@@ -49,7 +49,9 @@ sd_question(
 sd_next()
 ```
 
-:::'
+--- some_other_page
+
+Other content...'
 
   cat(fence_start(highlights))
   cat(survey_text)

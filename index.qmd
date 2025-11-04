@@ -4,6 +4,42 @@
 source("scripts.R")
 ```
 
+## About Me {.center style="font-size: 30px; line-height: 1.5;"}
+
+::: {.columns}
+::: {.column width="38%"}
+![](figs/pingfan.png)
+:::
+
+::: {.column width="62%"}
+<div style="margin-bottom: -1em;">
+- My name is **Pingfan Hu**, a PhD Candidate at George Washington University, supervised by Dr John Helveston.
+- Graduating in **Spring 2025**.
+</div>
+
+<div style="margin-bottom: -1em;">
+- Research focuses:
+  <div style="margin-left: 1em;">
+    1. Sustainable transportation
+    2. Choice modeling & data analysis
+    3. Research software development
+  </div>
+</div>
+
+<div style="margin-bottom: -1em;">
+- For more infomation, visit [**pingfanhu.com**](http://pingfanhu.com)
+</div>
+:::
+:::
+
+::: {.notes}
+Hi! My name is Pingfan Hu, a PhD Candidate at the George Washington University, supervised by Dr John Helveston.
+
+My research focuses on EV grid integration, consumer behavior studies on transportation, and research software development.
+
+For more information, you can visit my website at pingfanhu.com.
+:::
+
 ## I try to figure out what people want... {.black-centered .center}
 
 ![](figs/crystal_ball.jpg){fig-align="center" width=500}
@@ -319,9 +355,25 @@ surveycode("11,29")
 ::: {.column width="48%"}
 
 ::: {.bubble-left style="display: block; transform: none; top: 32%;"}
-Use Quarto fences (`:::`)
+Use triple-dash marker (`---`)
 
 to define survey pages
+:::
+
+::: {.fragment .bubble-left style="display: block; transform: none; top: 50%;"}
+Quarto fences (`:::`) also OK:
+
+<br>
+
+`::: {#welcome .sd-page}`
+
+<br>
+
+`Page content`
+
+<br>
+
+`:::`
 :::
 
 :::
@@ -362,7 +414,7 @@ Page content
 
 ```{r}
 #| results: 'asis'
-surveycode()
+surveycode("1-27")
 ```
 
 :::
@@ -848,3 +900,18 @@ Condition ~ Target
 ![](figs/qr-surveydown-doc.svg){fig-align="center" width=80% .purple-border}
 
 :::
+
+## One more thing... {.dark-centered .center style="font-size: 1.2em;"}
+
+## Workshop by Dr John Helveston Tomorrow {.light-centered .center}
+
+<br>
+<br>
+
+::: {.centered-container style="width: 85%;"}
+[jhelvy.github.io/2025-qux-surveydown-workshop/](https://jhelvy.github.io/2025-qux-surveydown-workshop/)
+:::
+
+<br>
+
+Thursday Nov 6, **2:00 PM** UTC−5, Eastern Time (U.S.)

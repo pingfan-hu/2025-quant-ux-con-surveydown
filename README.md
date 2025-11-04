@@ -1,5 +1,5 @@
-Slides for my talk on surveydown at USRSE'25
+Slides for my talk on surveydown at [Quant UX Con 2025](https://www.quantuxa.org/quant-ux-con/quant-ux-con-2025)
 
-*surveydown: An open-source platform for programmable, markdown-based surveys*
+*surveydown: An Open-Source, Markdown-Based Platform for Reproducible and Programmable Surveys*
 
-Oct 06, 2025, Philadelphia, PA
+Nov 05, 2025
