@@ -12,32 +12,22 @@ source("scripts.R")
 :::
 
 ::: {.column width="62%"}
-<div style="margin-bottom: -1em;">
-- My name is **Pingfan Hu**, a PhD Candidate at George Washington University, supervised by Dr John Helveston.
-- Graduating in **Spring 2025**.
-</div>
+- **Pingfan Hu**, PhD Candidate at George Washington University, advised by Dr John Helveston.
 
-<div style="margin-bottom: -1em;">
-- Research focuses:
-  <div style="margin-left: 1em;">
+- Research field:
+  <div style="margin-left: 1em; line-height: 1;">
     1. Sustainable transportation
-    2. Choice modeling & data analysis
-    3. Research software development
+    2. Human behavior and decision-making
   </div>
-</div>
 
-<div style="margin-bottom: -1em;">
+- Research focuses:
+  <div style="margin-left: 1em; line-height: 1;">
+    1. Open-source software development
+    2. Data science and choice modeling
+  </div>
+
 - For more infomation, visit [**pingfanhu.com**](http://pingfanhu.com)
-</div>
 :::
-:::
-
-::: {.notes}
-Hi! My name is Pingfan Hu, a PhD Candidate at the George Washington University, supervised by Dr John Helveston.
-
-My research focuses on EV grid integration, consumer behavior studies on transportation, and research software development.
-
-For more information, you can visit my website at pingfanhu.com.
 :::
 
 ## I try to figure out what people want... {.black-centered .center}

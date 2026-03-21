@@ -1,6 +1,9 @@
 project:
   type: website
-  output-dir: _site
+  resources:
+    - figs/
+  render:
+    - "*.qmd"
 
 pagetitle: "surveydown Quant UX Con"
 title: "`surveydown`<br><span style='font-size: 0.7em;'>An Open-Source, Markdown-Based Platform<br>for Reproducible and Programmable Surveys</span>"
@@ -26,8 +29,8 @@ format:
       data-background-opacity: "1"
       data-background-position: right 20% center
       class: custom-title-slide
-      style: text-align:left; max-width:70%;
-
+      style: text-align:left;
+      
 execute:
   warning: false
   echo: false
