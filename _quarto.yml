@@ -10,9 +10,8 @@ title: "`surveydown`<br><span style='font-size: 0.7em;'>An Open-Source, Markdown
 author: "<br>**Pingfan Hu**<br>George Washington University<br><br>Quant UX Con 2025"
 
 format:
-  revealjs:
+  touhou-revealjs:
     smaller: false
-    theme: styles/theme.scss
     css: styles/slides.css
     slide-number: true
     embed-resources: false
