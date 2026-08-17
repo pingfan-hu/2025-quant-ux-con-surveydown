@@ -18,7 +18,7 @@ format:
     slide-number: true
     embed-resources: false
     auto-stretch: false
-    footer: "<a href='http://pingfanhu.com'>Pingfan Hu</a> - <a href='https://www.quantuxa.org/quant-ux-con/quant-ux-con-2025'>Quant UX Con 2025</a>"
+    footer: "<a href='https://pingfan.org'>Pingfan Hu</a> - <a href='https://www.quantuxa.org/quant-ux-con/quant-ux-con-2025'>Quant UX Con 2025</a>"
     preview-links: auto
     link-external-newwindow: true
     link-external-icon: false
